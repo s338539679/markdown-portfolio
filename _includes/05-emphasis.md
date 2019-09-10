@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My *attributes* and **skills**
+*Reliable*
+__Tries hard in school__
+_Dead inside_
+__Gets work done *in time*__ 
+*Trustworthy*
